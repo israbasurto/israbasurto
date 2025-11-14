@@ -1,10 +1,29 @@
-- 👋 Hi, I’m @israbasurto
-- 👀 I’m interested in learn, grow and make a better world
-- 🌱 I’m currently learning design, programing, music, etc
-- 💞️ I’m looking to collaborate on places with crazy people like me XD
-- 📫 How to reach me? israbasurto :)
+# 👋 Hey, I’m Israel Basurto
 
-<!---
-israbasurto/israbasurto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+I’m a passionate creator, developer, and community-driven innovator from México.  
+I love building technology that empowers people — from municipal digital services to identity platforms, cloud apps, and creative projects with AI.
+
+## 👁️ What drives me
+- 🌱 Learning every day and growing through challenges  
+- 🌎 Creating technology that makes life easier and the world a little better  
+- 🤝 Collaborating with people who think differently, dream big, and aren’t afraid of crazy ideas  
+
+## 💼 What I do
+- 🧑‍💻 **Member of TRINIUM** — building digital transformation solutions for communities  
+- 💡 Working on civic-tech, cloud platforms, digital identity, and modern web apps  
+- 🎨 Exploring creativity through AI (Lovable, design, branding, visuals)  
+- 🎵 Musician at heart — always creating, composing, and inspiring  
+
+## 🚧 Currently building
+- Government digital services  
+- Identity and citizen platforms (QR, cards, roles)  
+- Next.js + Supabase + Cloud-native apps  
+- Tools for communities, culture, and education  
+
+## 📫 Reach me
+**@israbasurto** on all platforms :)
+
+---
+
+> _“No me sigas, síguete a ti mismo — ve a crear lo que sueñas.”_
 --->
